@@ -6,7 +6,7 @@ export const Navbar = () => (
 	<nav className='navbar bg-dark'>
 		<h1>
 			<Link to='/'>
-				<i className='fas fa-code'></i>
+				<i className='fas fa-code' style={{ marginRight: "10px" }}></i>
 				DevConnector
 			</Link>
 		</h1>
